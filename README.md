@@ -6,7 +6,7 @@ Previously **Senior Product Analyst at ShareChat** (180M MAU ad platform & Share
 
 - **Live App:** [veraxis.work](https://veraxis.work)
 - **Full 4K Product Walkthrough:** [Watch on YouTube](https://youtu.be/EpK-XwDGVTY)
-- **Portfolio & Case Studies:- **Portfolio & Case Studies:** [kapil-vaishnav.vercel.app](https://kapil-vaishnav.vercel.app/)
+- **Portfolio & Case Studies:** - **Portfolio & Case Studies:** [kapil-vaishnav.vercel.app](https://kapil-vaishnav.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/kapil-vaishnav](https://linkedin.com/in/kapil-vaishnav)
 
 > *Note: The Veraxis production codebase (`veraxis-app`, 1,000+ commits) is kept private. The contribution graph below reflects active development.*
